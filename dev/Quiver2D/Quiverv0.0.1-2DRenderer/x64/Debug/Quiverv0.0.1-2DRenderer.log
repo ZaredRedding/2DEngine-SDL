@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Quiver2D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+  Main.cpp
+  Generating Code...
+  Quiverv0.0.1-2DRenderer.vcxproj -> C:\Users\Futilic\Documents\Projects\GameEngineProgramming_MADHAV\Chapters1-4\2DEngine-SDL\dev\Quiver2D\x64\Debug\Quiverv0.0.1-2DRenderer.exe
